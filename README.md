@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Shachee 👋
 
-<!--
-**shacheebaraiya/shacheebaraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSIS student at the University of Utah with experience across product analytics, data, and technology.
 
-Here are some ideas to get you started:
+Previously, I worked as an Associate Product Analyst at Capital Insurance Group, where I supported product and pricing decisions through data analysis, product performance reporting, and UAT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building products at the intersection of technology, business, data, and user needs.
+
+Areas of Interest
+Product Management • Data-Driven Decision Making • AI • UX
+
+Tools
+SQL • Python • Tableau • Agile/Scrum • Jira • UAT
+
+Currently
+🎓 MS Information Systems @ University of Utah
+🚀 Working with early-stage startups through Lassonde Company Launch
+📊 Exploring how data and AI can inform better product decisions
